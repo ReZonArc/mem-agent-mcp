@@ -458,3 +458,20 @@ This system is designed as local add-ons that don't affect the main mem-agent-mc
 - Debug improvements enhance troubleshooting
 
 Pull requests welcome for new connectors and improvements!
+
+## Technical Architecture Documentation
+
+For detailed technical architecture and implementation documentation, see the [docs/](./docs/) directory:
+
+- **[Technical Architecture Overview](./docs/README.md)** - Complete documentation index
+- **[System Overview](./docs/system-overview.md)** - High-level system architecture
+- **[Component Architecture](./docs/component-architecture.md)** - Detailed component interactions
+- **[Data Flow Architecture](./docs/data-flow-architecture.md)** - Data processing pipelines
+- **[Agent Architecture](./docs/agent-architecture.md)** - Memory agent implementation
+- **[MCP Server Architecture](./docs/mcp-server-architecture.md)** - Protocol server design
+- **[Memory System Architecture](./docs/memory-system-architecture.md)** - Memory organization
+- **[Deployment Architecture](./docs/deployment-architecture.md)** - Deployment patterns
+- **[API Architecture](./docs/api-architecture.md)** - API design and protocols
+- **[Memory Connectors Architecture](./docs/memory-connectors-architecture.md)** - Data integration
+
+The documentation includes comprehensive Mermaid diagrams for visual understanding of system architecture, data flows, and component interactions.
